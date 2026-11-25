@@ -44,9 +44,89 @@
 #     print("lower")
 # else:
 #     print("not an alphabet")
-i=1
-while i<=100:
-    if i%2==0:
-        print(i,"even")
-    i+=1
+# i=1
+# while i<=100:
+#     if i%2==0:
+#         print(i,"even")
+#     i+=1
+    # s=input("enter:")
+# out=" "
+# for i in s:
+#     if "A"<=i<="Z":
+#         out+=chr(ord(i)+32)
+#     elif    "a"<=i<="z":
+#         out+=chr(ord(i)-32)
+#     else:    
+#         out+=id
+# print(out)
+# s=input("enter:")
+# rev=" "
+# for i in s:
+#     rev=i+rev
+# print(rev)
+# for i in range(1,6):
+#     for j in range(1,6):
+#        print(" * ",end=" ")
+#     print()     
+# for i in range(1,6):
+#     for j in range(1,6):
+#         if i==j:
+#             print('1',end=' ')
+#         else:
+#             print('@',end=' ')
+#     print()
+
+# def convert():
+#     s=input("enter:")
+#     out=" "
+#     for i in s:
+#         if"a"<=i<="z":
+#             out+=chr(ord(i)-32)
+#         else:
+#             out+=i
+#         return (out)
+# print(convert())
+
+# class college:
+#     cname='gcem'
+#     cloc='hoodi'
+# s1=college()
+# print(s1.cname,s1.cloc)
+# college.cloc='kr puram'
+# print(college.cloc)
+
+# class college:
+#     cname='gcem'
+#     cloc='hoodi'
+# s1=college()
+# print(s1.cname,s1.cloc)
+# college.cloc='kr puram'
+# print(college.cloc)
+# print('changing loc wtstrp obj')
+# s1.cloc='hoodi' 
+# print(s1.cloc)
+# print(college.cloc)
+
+# class college:
+#     cname='gcem'
+#     cloc='hoodi'
+# s1=college()
+# s2=college()
+# print(s1.cname,s1.cloc)
+# college.cloc='kr puram'
+# print(college.cloc)
+# print('changing loc wtstrp obj')
+# s1.cloc='hoodi' 
+# print(s1.cloc)
+# print(college.cloc)
+
+# s1.name="harshi"
+# s1.phone=12345667889
+# s2.name='boomi'
+# s2.phone=2356789531
+# print('after changing')
+# print(s1.cloc)
+# print(s2.cloc)
+# print(college.cloc)
+
 
